@@ -23,6 +23,12 @@ The project is fully compatible with MATLAB 2015b and is ideal for students or r
 - **MATLAB Version**: 2015b or newer.  
 - **Toolboxes Required**:  
   - Image Processing Toolbox.
+ 
+---
+
+### Author
+This project is created by **Sujit Sathe**  
+Email: [sujitsathe11@gmail.com](mailto:sujitsathe11@gmail.com)
 
 
 
